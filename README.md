@@ -13,7 +13,7 @@
 (Max ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐)
 
 
-<table>
+<table style="background-color:#09131b">
     <tr>
         <td>Group</td>
         <td>Skill</td>
