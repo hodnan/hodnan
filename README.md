@@ -13,9 +13,9 @@
 (Max ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐)
 
 
-<table style="background-color:#09131b">
-    <tr>
-        <td>Group</td>
+<table>
+    <tr >
+        <td >Group</td>
         <td>Skill</td>
         <td>Level</td>
         <td>XP</td>
